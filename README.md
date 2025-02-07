@@ -3,16 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sandeep Kumar - Ecommerce Business Intelligence Analyst</title>
-    <style>
-        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; }
-        header { background: #333; color: #fff; padding: 15px 20px; text-align: center; }
-        .container { width: 80%; margin: auto; padding: 20px; background: #fff; }
-        h1, h2 { color: #333; }
-        .section { margin-bottom: 20px; }
-        .contact { background: #333; color: #fff; padding: 10px; text-align: center; }
-        a { color: #ffcc00; text-decoration: none; }
-    </style>
 </head>
 <body>
     <header>
